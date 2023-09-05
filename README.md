@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trihoang0809
 - 👀 I’m interested in sports and coding!
 - 💞️ I’m looking to collaborate on interesting web development and DS-related projects!
-- 📫 How to reach me: Message me through Instagram (trihoangg_) or LinkedIn (https://www.linkedin.com/in/tri-hoang-194503249/)
+- 📫 How to reach me: Send me an email (trihoang0809@gmail.com) or connect on LinkedIn (https://www.linkedin.com/in/tri-hoang-194503249/)
 
 <!---
 trihoang0809/trihoang0809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
