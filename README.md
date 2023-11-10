@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Tri.
-- 💞️ I’m looking to collaborate on interesting web development and DS-related projects!
 - 📫 How to reach me: Send me an email (trihoang0809@gmail.com) or connect on LinkedIn (https://www.linkedin.com/in/tri-hoang-194503249/)
 
 <!---
